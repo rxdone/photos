@@ -16,7 +16,7 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "stop",
+      "AdsSwitchNative": "adscount",
 
       "AdsCount": "4",
       "ActiveApp": "yes"
