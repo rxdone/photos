@@ -16,9 +16,9 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "fan",
+      "AdsSwitchNative": "own",
 
-      "AdsCount": "4",
+      "AdsCount": "2",
       "ActiveApp": "yes"
     }
   ],
@@ -39,6 +39,10 @@
     {
       "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
       "img": "https://devabdeljalil.github.io/client/rachid/ads4.png"
+     },
+    {
+      "url": "https://www.google.com",
+      "img": "https://rxdone.github.io/photos/ads5.png"
     }
   ],
 
@@ -75,11 +79,6 @@
     {
       "title": "8 Easy Juice",
       "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food.",
-      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
-    },
-    {
-      "title": "r9",
-      "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great",
       "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
     }
   ]
