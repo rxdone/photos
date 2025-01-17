@@ -18,7 +18,7 @@
       "AdsSwitchInterstitial": "admob",
       "AdsSwitchNative": "own",
 
-      "AdsCount": "2",
+      "AdsCount": "5",
       "ActiveApp": "yes"
     }
   ],
@@ -78,7 +78,7 @@
     },
     {
       "title": "8 Easy Juice",
-      "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food.",
+      "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food. Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food.",
       "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
     }
   ]
