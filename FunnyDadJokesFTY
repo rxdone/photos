@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+
+      "MaxInterstitial": "d46fe46bea146baf",
+      "MaxBanner": "3ee847aa4f209d85",
+      "MaxNative": "46056dc83ada34a2",
+
+      "AdsSwitchBanner": "admob",
+      "AdsSwitchInterstitial": "admob",
+      "AdsSwitchNative": "own",
+
+      "AdsCount": "5",
+      "ActiveApp": "yes"
+    }
+  ],
+
+  "native": [
+    {
+      "url": "https://www.amazon.com/Smarter-Astronaut-100th-Day-School/dp/B0DSK3HRN2?dib=eyJ2IjoiMSJ9.jCwP1hCPKRIpCJmCp0o_Du-H59HpmGAuC7LSrXk9uCeS3uWaSTx8p3n8SCJSLcVtDimCm9Dr81ODdGYmFJjC6fvIquUXRxFuklmhVjoW5p4.aii6jK3rzo94Gs1LNp8GTczk99_5UAN5IvtL9ow9SKQ&dib_tag=se&qid=1737540809&refinements=p_4%3A100th+Day+Of+School+Smarter+Astronaut+Lovers&s=apparel&sr=1-1",
+      "img": "https://rxdone.github.io/photos/Folder/100Days-Smarter-Astronaut.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSTFBM3B?customId=B0752XJYNL&customizationToken=MC_Assembly_1%23B0752XJYNL&th=1",
+      "img": "https://rxdone.github.io/photos/Folder/100Days-WatchingStudents-Grow.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/100th-Day-School-Teacher-Student/dp/B0DS6PZN5M?dib=eyJ2IjoiMSJ9.d21DeHL-UEhLgFQgpeQ-ryF5dbv9a36YNV8e7CfTCaNFaeG7wWipZFum1qoZhgELLrvONOhd9SurKzM5fAu2Aywq87Ar5xxSusdVU5CcCEJhVa4Sp08MbGpnWBx7JPkUMw5oz-axTBM1ZZ84AWgnd2S-Ky5caoDR_XPKVEBR8htn_9v8clPDMbQ75yQQVecE.iGc2WoWyolrPRIYuo9oSPqAztXlekImWbqvxnXedxOw&dib_tag=se&qid=1737539803&refinements=p_4%3A100th+Day+of+School+Design+for+Teacher+%26+Student&s=apparel&sr=1-11",
+      "img": "https://rxdone.github.io/photos/Folder/100thDay_School_Vibes_shirt.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSJZ21QX",
+      "img": "https://rxdone.github.io/photos/Folder/100thDay_IKicked_100Days_School.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSTHY36J",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_Baseball_Catcher.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSY8FF94",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_DabbingUnicorn.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSYJJCCT",
+      "img": "https://rxdone.github.io/photos/Folder/ValentineVibes.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSWG3DQ8",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_CruiseSquad.jpg"
+    }
+  ],
+
+  "list": [
+    {
+      "title": "s1",
+      "content": "Explore the best features and enjoy seamless experiences.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s2",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s3",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },{
+      "title": "s4",
+      "content": "Explore the best features and enjoy seamless experiences.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s5",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s6",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "8 Easy Juice",
+      "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    }
+  ]
+
+}
