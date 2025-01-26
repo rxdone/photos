@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+
+      "MaxInterstitial": "d46fe46bea146baf",
+      "MaxBanner": "3ee847aa4f209d85",
+      "MaxNative": "46056dc83ada34a2",
+
+      "AdsSwitchBanner": "admob",
+      "AdsSwitchInterstitial": "admob",
+      "AdsSwitchNative": "own",
+
+      "AdsCount": "5",
+      "ActiveApp": "yes"
+    }
+  ],
+
+  "native": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&pcampaignid",
+      "img": "https://devabdeljalil.github.io/client/rachid/ads1.png"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.isoland2.gp.mf",
+      "img": "https://devabdeljalil.github.io/client/rachid/ads2.png"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
+      "img": "https://devabdeljalil.github.io/client/rachid/ads3.png"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
+      "img": "https://devabdeljalil.github.io/client/rachid/ads4.png"
+     },
+    {
+      "url": "https://www.google.com",
+      "img": "https://rxdone.github.io/photos/ads5.png"
+    }
+  ],
+
+  "list": [
+    {
+      "title": "s1",
+      "content": "♥︎Shrimp Saganaki♥︎
+
+Ingredients:
+➔1 tablespoon olive oil
+➔¼ cup shallot, chopped
+➔3 cloves garlic, chopped
+➔2 cups cherry tomatoes, halved
+➔⅓ cup kalamata olives, halved
+➔1 ¼ lb jumbo shrimp, peeled and deveined
+➔1 lemon, zest and juice
+➔¼ cup fresh dill, finely chopped
+➔6 ounces feta cheese, cubed in small pieces
+
+Instructions:
+➔Heat olive oil in a deep skillet. Add shallot and garlic and cook until aromatic; 2 to 3 minutes.
+➔Add cherry tomatoes and cook until they burst, stirring often; 5 to 6 minutes. Add olives and ¾ cup water; stir and reduce the heat to medium-low until saucy and thickened, 2 to 3 minutes.
+➔Nestle shrimp into the tomatoes, cover and cook until shrimp are pink, about 3 minutes.
+➔Stir in lemon zest, lemon juice and dill and top with feta.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s2",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s3",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },{
+      "title": "s4",
+      "content": "Explore the best features and enjoy seamless experiences.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s5",
+      "content": "Get 50% off on your first purchase. Limited time offer!",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "s6",
+      "content": "Follow us on social media for the latest updates.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    },
+    {
+      "title": "8 Easy Juice",
+      "content": "Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food. Have you guys gotten into juicing yet? If you haven’t, you should try it! It’s a fun and tasty way to pack a ton of healthy nutrients into a drinkable treat that’ll make you feel great.Now, a lot of folks out there think of juicing as a replacement for whole foods—I don’t agree with that. I believe that whole foods (and the fiber that comes along with them) are vital part of a healthy diet. I don’t recommend using fruit or vegetable juices (or smoothies) as a replacement for food.",
+      "img": "https://devabdeljalil.github.io/client/rachid/ic_soup.png"
+    }
+  ]
+
+}
