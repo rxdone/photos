@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "AdmobInterstitial": "ca-app-pub-5550256055542555/5553573555",
-      "AdmobBanner": "ca-app-pub-5550256095552555/5550958555",
+      "AdmobInterstitial": "ca-app-pub-7401359776648318/6286237596",
+      "AdmobBanner": "ca-app-pub-7401359776648318/1951406764",
       "AdmobNative": "ca-app-pub-5550255599942555/5557656555",
       "AdmobAppOpen": "ca-app-pub-5550256555942555/5557595555",
 
@@ -16,7 +16,7 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "admob",
+      "AdsSwitchNative": "own",
 
       "AdsCount": "6",
       "ActiveApp": "yes"
