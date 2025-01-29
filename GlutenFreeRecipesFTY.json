@@ -18,31 +18,43 @@
       "AdsSwitchInterstitial": "admob",
       "AdsSwitchNative": "own",
 
-      "AdsCount": "5",
+      "AdsCount": "6",
       "ActiveApp": "yes"
     }
   ],
 
   "native": [
     {
-      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&pcampaignid",
-      "img": "https://devabdeljalil.github.io/client/rachid/ads1.png"
+      "url": "https://www.amazon.com/Smarter-Astronaut-100th-Day-School/dp/B0DSK3HRN2?dib=eyJ2IjoiMSJ9.jCwP1hCPKRIpCJmCp0o_Du-H59HpmGAuC7LSrXk9uCeS3uWaSTx8p3n8SCJSLcVtDimCm9Dr81ODdGYmFJjC6fvIquUXRxFuklmhVjoW5p4.aii6jK3rzo94Gs1LNp8GTczk99_5UAN5IvtL9ow9SKQ&dib_tag=se&qid=1737540809&refinements=p_4%3A100th+Day+Of+School+Smarter+Astronaut+Lovers&s=apparel&sr=1-1",
+      "img": "https://rxdone.github.io/photos/Folder/100Days-Smarter-Astronaut.jpg"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.isoland2.gp.mf",
-      "img": "https://devabdeljalil.github.io/client/rachid/ads2.png"
+      "url": "https://www.amazon.com/dp/B0DSTFBM3B?customId=B0752XJYNL&customizationToken=MC_Assembly_1%23B0752XJYNL&th=1",
+      "img": "https://rxdone.github.io/photos/Folder/100Days-WatchingStudents-Grow.jpg"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
-      "img": "https://devabdeljalil.github.io/client/rachid/ads3.png"
+      "url": "https://www.amazon.com/100th-Day-School-Teacher-Student/dp/B0DS6PZN5M?dib=eyJ2IjoiMSJ9.d21DeHL-UEhLgFQgpeQ-ryF5dbv9a36YNV8e7CfTCaNFaeG7wWipZFum1qoZhgELLrvONOhd9SurKzM5fAu2Aywq87Ar5xxSusdVU5CcCEJhVa4Sp08MbGpnWBx7JPkUMw5oz-axTBM1ZZ84AWgnd2S-Ky5caoDR_XPKVEBR8htn_9v8clPDMbQ75yQQVecE.iGc2WoWyolrPRIYuo9oSPqAztXlekImWbqvxnXedxOw&dib_tag=se&qid=1737539803&refinements=p_4%3A100th+Day+of+School+Design+for+Teacher+%26+Student&s=apparel&sr=1-11",
+      "img": "https://rxdone.github.io/photos/Folder/100thDay_School_Vibes_shirt.jpg"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp",
-      "img": "https://devabdeljalil.github.io/client/rachid/ads4.png"
-     },
+      "url": "https://www.amazon.com/dp/B0DSJZ21QX",
+      "img": "https://rxdone.github.io/photos/Folder/100thDay_IKicked_100Days_School.jpg"
+    },
     {
-      "url": "https://www.google.com",
-      "img": "https://rxdone.github.io/photos/ads5.png"
+      "url": "https://www.amazon.com/dp/B0DSTHY36J",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_Baseball_Catcher.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSY8FF94",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_DabbingUnicorn.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSYJJCCT",
+      "img": "https://rxdone.github.io/photos/Folder/ValentineVibes.jpg"
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0DSWG3DQ8",
+      "img": "https://rxdone.github.io/photos/Folder/ValentinesDay_CruiseSquad.jpg"
     }
   ],
 
