@@ -16,7 +16,7 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "admob",
+      "AdsSwitchNative": "own",
 
       "AdsCount": "6",
       "ActiveApp": "yes"
@@ -346,6 +346,22 @@ It's probably going to be a dog but it is what it is.",
       "title": "JOKE 57",
       "content": "At my age I am good at multitasking.
 I can listen, ignore and forget all at once.",
+      "img": "https://rxdone.github.io/photos/Folder/ic_soup.png"
+          },
+    {
+      "title": "JOKE 58",
+      "content": "My wife complains I don't buy her flowers.
+To be honest, I didn't know she sold flowers.",
+      "img": "https://rxdone.github.io/photos/Folder/ic_soup.png"
+          },
+    {
+      "title": "JOKE 59",
+      "content": "Another Saturday night in the house and I just realized, even the trash goes out more than me.",
+      "img": "https://rxdone.github.io/photos/Folder/ic_soup.png"
+          },
+    {
+      "title": "JOKE 60",
+      "content": "You can't give away a used mattress, but somehow, we'll pay $200 a night to sleep on one at a hotel!",
       "img": "https://rxdone.github.io/photos/Folder/ic_soup.png"
     }
   ]
