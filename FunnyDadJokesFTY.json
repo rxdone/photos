@@ -16,7 +16,7 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "own",
+      "AdsSwitchNative": "admob",
 
       "AdsCount": "6",
       "ActiveApp": "yes"
