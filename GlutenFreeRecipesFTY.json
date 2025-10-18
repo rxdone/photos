@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-      "AdmobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+      "AdmobInterstitial": "ca-app-pub-5550256559942555/3333143333",
+      "AdmobBanner": "ca-app-pub-5550256095552545/5355578555",
+      "AdmobNative": "ca-app-pub-5555256055942555/5245696555",
+      "AdmobAppOpen": "ca-app-pub-6640256666942566/6657395666",
 
       "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
       "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
@@ -16,7 +16,7 @@
 
       "AdsSwitchBanner": "admob",
       "AdsSwitchInterstitial": "admob",
-      "AdsSwitchNative": "own",
+      "AdsSwitchNative": "admob",
 
       "AdsCount": "6",
       "ActiveApp": "yes"
